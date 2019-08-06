@@ -1,4 +1,4 @@
-# jenkins-please
+# jenkins-docker
 This Dockerfile will build a Docker container image with Jenkins and Docker CE.
 
 Build it like this:
